@@ -1,2 +1,2 @@
 # Simple-GitHub-Finder
-Demonstrating  fetch Api Using Asp>net Core Mvc 
+Demonstrating  fetch Api Using Asp.Net Core Mvc 
